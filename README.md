@@ -24,7 +24,7 @@
 
 I am a **Full-Stack Developer** and **Hackathon Enthusiast** with a deep passion for building products that matter. I thrive in high-pressure environments, turning complex problems into elegant, scalable solutions. 
 
-My journey isn't just about syntax; it's about **System Architecture**, **Automation**, and mastering the **MERN Stack**. I am constantly exploring the bleeding edge of tech—currently diving deep into **Blockchain** and **Web3**.
+My journey isn't just about syntax; it's about **Building Products**, **Automation**, and mastering the **MERN Stack**. I am constantly exploring new horizons like **System Design**, **python**, and **Blockchain**.
 
 ---
 
@@ -34,7 +34,7 @@ My journey isn't just about syntax; it's about **System Architecture**, **Automa
 
 | **CORE & LANGUAGES** | **FRONTEND ECOSYSTEM** |
 | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-critical?style=for-the-badge) ![System Design](https://img.shields.io/badge/System_Design-Architecture-critical?style=for-the-badge) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-critical?style=for-the-badge) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white) |
 
 | **BACKEND & DATABASE** | **DEVOPS & TOOLS** |
 | :---: | :---: |
@@ -42,7 +42,7 @@ My journey isn't just about syntax; it's about **System Architecture**, **Automa
 
 | **EXPLORING BOUNDARIES** |
 | :---: |
-| ![Blockchain](https://img.shields.io/badge/Blockchain-Exploring-blueviolet?style=for-the-badge) ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![System Design](https://img.shields.io/badge/System_Design-Architecture-blueviolet?style=for-the-badge) <br> ![Blockchain](https://img.shields.io/badge/Blockchain-Exploring-blueviolet?style=for-the-badge) ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) |
 
 </div>
 
